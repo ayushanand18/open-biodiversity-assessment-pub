@@ -37,6 +37,8 @@ website:
         text: Acknowledgements
       - href: content/outline.qmd
         text: Draft Outline
+      - href: content/regionOfInterest.qmd
+        text: Geographical Region Of Interest
 
 format:
   html:
